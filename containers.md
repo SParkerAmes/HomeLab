@@ -1,0 +1,4 @@
+# App Containers
+
+Bitwarden
+Anytype
